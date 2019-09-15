@@ -1,0 +1,20 @@
+body, html {
+    font-family: 'Playfair Display', serif;
+    background-color: #10193B;
+    color: #ffffff;
+}
+
+.right-side {
+    background-color: #0F1737;
+    height: 100vh;
+}
+
+.navbar-pos {
+    margin: 1rem 3rem;
+    
+}
+
+.navbar-link {
+    color: #ffffff;
+    word-spacing: 30px;
+}
