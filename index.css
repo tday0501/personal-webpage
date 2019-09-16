@@ -1,3 +1,4 @@
+/* document setup */
 body, html {
     font-family: 'Playfair Display', serif;
     background-color: #10193B;
@@ -9,12 +10,68 @@ body, html {
     height: 100vh;
 }
 
-.navbar-pos {
+/* nav */
+.nav-pos {
     margin: 1rem 3rem;
-    
 }
 
 .navbar-link {
+    font-size: 1rem;
     color: #ffffff;
-    word-spacing: 30px;
 }
+
+.name {
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
+
+.no-underline {
+    text-decoration: none
+}
+
+
+.T {
+    color: #FFEF55
+}
+
+.dot {
+    color: #23A30A
+}
+
+.M {
+    color: #1A5AF3
+}
+
+.D {
+    color: #F31A52
+}
+
+/* left-side */
+.avatar {
+    display: block;
+    text-align: center;
+    margin: 2.5rem
+}
+
+.image {
+    width: 6.5em;
+    height: 6.5rem
+}
+
+.content-container {
+    margin: auto;
+    width: 80%;
+}
+
+.header {
+    font-weight: bolder;
+    font-size: 2.3rem;
+    margin-bottom: 1.2rem;
+}
+
+.subheading {
+    width: 85%;
+    line-height: 1.8rem
+}
+
+
